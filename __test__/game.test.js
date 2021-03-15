@@ -13,8 +13,6 @@ describe('App', () => {
 
 describe('Game', () => {
   let game, p1, p2
-   this.p1 = p1
-   this.p2 = p2
   beforeEach(() => {
     p1 = 'Salem'
     p2 = 'Nate'
